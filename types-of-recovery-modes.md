@@ -1,4 +1,4 @@
-#Here I explain, briefly, recovery modes for databases in Microsoft SQL Server
+# Here I explain, briefly, recovery modes for databases in Microsoft SQL Server
 
 ## Simple
 * Does not back anything on the log
