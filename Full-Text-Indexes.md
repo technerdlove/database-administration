@@ -1,4 +1,6 @@
 # Here I create a full text index
+* A full text index has some better algorithms for matching data and finding variations of names. Therefore, a full text index can provide better performance for matching Smith, Smythe, Smithers, etc when you look for Smith.
+* In such cases a full text index provides better results compare to traditional like method.
 
 ## Steps
 1. Create a new database with a file for a full text index
