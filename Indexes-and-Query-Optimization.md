@@ -1,8 +1,13 @@
-# Here I 
-1. 
-2. Run the query with the actual execution plan and the statistics.
-3. Add indexes to the underlying tables on key terms
-4. Run after each change to compare the results
+# Here I accomplish the following to for indexes and query optimizaton:
+* Creation of indexes
+* Execution plan and statistics
+* Forced index query
+* Running Tuning advisor
+
+## Steps to complete:
+1. Run the query with the actual execution plan and the statistics.
+2. Add indexes to the underlying tables on key terms
+3. Run after each change to compare the results
 
 ## Query to optimize:
 ```select [EmployeeLastName]
@@ -29,5 +34,5 @@ order by [BusScheduleAssignmentDate]
 ,BusDriverShiftKey
 ,EmployeeLastName
 ```
-
+## Result
 ![Indexes and Query Optimization](/images/Indexes-and-Query-Optimization/indexes-and-query-optimization.png)
