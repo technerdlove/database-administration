@@ -42,7 +42,7 @@ Administrative activities, security and backup on a Relational Database Manageme
 ### What would be a good backup strategy for a small business database (say a cafe or bookstore) and why?
 * Use the BACKUP and RESTORE, and perform a Full Backup.  It’s the simplest type of backup, and it’s necessary prior to other backup types.  
 
-### What does it means to administer a database? What are some of the main areas of concern for administrator? List at least 5 database tasks that an administrator is likely to perform.
+### What does it means to administer a database? What are some of the main areas of concern for administrator?
 
 *	Installation, configuration and upgrading of Database server software and related products.
 *	Evaluate Database features and Database related products.
