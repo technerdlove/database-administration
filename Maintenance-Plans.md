@@ -1,7 +1,5 @@
 #  Here I do the following:
 * Create maintenance plan
-* Description of criterion
-
 
 ## Steps
 1. Use the wizard to create a database maintenance plan. 
